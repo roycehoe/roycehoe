@@ -9,7 +9,7 @@ I’m interested in:
 
 What I enjoy about programming
 
- - 📖Reading good code. I love reading code so logical, so succient, so clean, so well organized, it transcends into beautifully written prose. 
+ - 📖Reading good code. I love reading code so logical, so succinct, so clean, so well organized, it transcends into beautifully written prose. 
  - ✒️Writing good code, and the journey of striving to write cleaner and cleaner code.
  - ☁️Dreaming solutions, building them, watching them work, and feeling good. I speak for most programmers when I say this. The feeling of making stuff work is why all of us fell in love with programming in the first place.
 

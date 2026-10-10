@@ -10,6 +10,6 @@ I co-founded [Parleh-mate](https://github.com/parleh-mate) and wrote its first s
 
 Mostly Python, Postgres and auth. Lately, a lot of [Claude Code](https://github.com/roycehoe/claude-pipeline). 🤖
 
-[fancybinary.sg](https://fancybinary.sg/) · [LinkedIn](https://www.linkedin.com/in/findroycehere/)
+[LinkedIn](https://www.linkedin.com/in/findroycehere/)
 
 _Adjourned accordingly at 6.59 pm._

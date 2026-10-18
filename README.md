@@ -8,7 +8,7 @@ I scraped Singapore's Hansard back to 1955 into [hansard-scraper](https://github
 
 I co-founded [Parleh-mate](https://github.com/parleh-mate) and wrote its first scraper. 🗣️
 
-Mostly Python, Postgres and auth. Lately, a lot of [Claude Code](https://github.com/roycehoe/claude-pipeline). 🤖
+Mostly Python, Postgres and auth. Lately, [multi-agent coding workflows](https://github.com/roycehoe/agent-pipeline). 🤖
 
 [LinkedIn](https://www.linkedin.com/in/findroycehere/)
 
